@@ -1,1 +1,1 @@
-"# NextMinute" 
+# NextMinute
